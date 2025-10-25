@@ -92,17 +92,7 @@ export function Footer({ onNavigate }: FooterProps) {
                   +91 98191 31121
                 </a>
               </li>
-              <li className="flex items-start gap-3">
-                <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
-                <a 
-                  href="https://www.google.com/maps/place/15,+2,+Oshiwara,+Goregaon+West,+Mumbai,+Maharashtra+400102/@19.149534,72.835219,17z/data=!4m5!3m4!1s0x3be7b638a26a329d:0xe1748d4df7ff3bdb!8m2!3d19.149534!4d72.8352192?hl=en&entry=ttu&g_ep=EgoyMDI1MTAxMy4wIKXMDSoASAFQAw%3D%3D"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-emerald-400 transition-colors"
-                >
-                  Oshiwara sanskar chs Ltd, bld no 15, flat no 002, Oshiwara
-                </a>
-              </li>
+              
             </ul>
 
             {/* Social Media */}

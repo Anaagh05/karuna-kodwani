@@ -16,7 +16,7 @@ export function Hero({ onNavigate }: HeroProps) {
               Professional Healing & Wellness
             </div>
             <h1 className="text-4xl lg:text-5xl xl:text-6xl text-foreground">
-              Transform Your Life with Holistic Healing
+              Transform Your Life with a Practical Approach
             </h1>
             <p className="text-lg text-foreground/70">
               Welcome to a journey of self-discovery and wellness. I'm Karuna Kodwani, 
